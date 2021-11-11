@@ -1,0 +1,11 @@
+C:\Users\supar\SecondCalculator\bin\Debug\SecondCalculator.exe.config
+C:\Users\supar\SecondCalculator\bin\Debug\SecondCalculator.exe
+C:\Users\supar\SecondCalculator\bin\Debug\SecondCalculator.pdb
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.csproj.AssemblyReference.cache
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.Form1.resources
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.Properties.Resources.resources
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.csproj.GenerateResource.cache
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.csproj.CoreCompileInputs.cache
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.exe
+C:\Users\supar\SecondCalculator\obj\Debug\SecondCalculator.pdb
