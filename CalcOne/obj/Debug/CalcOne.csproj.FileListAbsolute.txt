@@ -1,0 +1,11 @@
+C:\Users\supar\CalcOne\bin\Debug\CalcOne.exe.config
+C:\Users\supar\CalcOne\bin\Debug\CalcOne.exe
+C:\Users\supar\CalcOne\bin\Debug\CalcOne.pdb
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.csproj.AssemblyReference.cache
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.Form1.resources
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.Properties.Resources.resources
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.csproj.GenerateResource.cache
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.csproj.CoreCompileInputs.cache
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.exe
+C:\Users\supar\CalcOne\obj\Debug\CalcOne.pdb
