@@ -1,0 +1,11 @@
+C:\Users\supar\MessageShow\bin\Debug\MessageShow.exe.config
+C:\Users\supar\MessageShow\bin\Debug\MessageShow.exe
+C:\Users\supar\MessageShow\bin\Debug\MessageShow.pdb
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.csproj.AssemblyReference.cache
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.Form1.resources
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.Properties.Resources.resources
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.csproj.GenerateResource.cache
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.csproj.CoreCompileInputs.cache
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.exe
+C:\Users\supar\MessageShow\obj\Debug\MessageShow.pdb
