@@ -1,8 +1,0 @@
-C:\Users\supar\Lab5\obj\Debug\TextBox.csproj.AssemblyReference.cache
-C:\Users\supar\Lab5\obj\Debug\TextBox.csproj.SuggestedBindingRedirects.cache
-C:\Users\supar\Lab5\obj\Debug\TextBox.Form1.resources
-C:\Users\supar\Lab5\obj\Debug\Lab5.Properties.Resources.resources
-C:\Users\supar\Lab5\obj\Debug\TextBox.csproj.GenerateResource.cache
-C:\Users\supar\Lab5\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
-C:\Users\supar\Lab5\obj\Debug\Lab5.exe
-C:\Users\supar\Lab5\obj\Debug\Lab5.pdb
