@@ -1,0 +1,11 @@
+C:\Users\supar\LabTextBox\bin\Debug\LabTextBox.exe.config
+C:\Users\supar\LabTextBox\bin\Debug\LabTextBox.exe
+C:\Users\supar\LabTextBox\bin\Debug\LabTextBox.pdb
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.csproj.AssemblyReference.cache
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.Form1.resources
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.Properties.Resources.resources
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.csproj.GenerateResource.cache
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.csproj.CoreCompileInputs.cache
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.exe
+C:\Users\supar\LabTextBox\obj\Debug\LabTextBox.pdb
