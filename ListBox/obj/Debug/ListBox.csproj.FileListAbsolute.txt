@@ -1,0 +1,11 @@
+C:\Users\supar\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\supar\ListBox\bin\Debug\ListBox.exe
+C:\Users\supar\ListBox\bin\Debug\ListBox.pdb
+C:\Users\supar\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\supar\ListBox\obj\Debug\ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\supar\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\supar\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\supar\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\supar\ListBox\obj\Debug\ListBox.exe
+C:\Users\supar\ListBox\obj\Debug\ListBox.pdb
