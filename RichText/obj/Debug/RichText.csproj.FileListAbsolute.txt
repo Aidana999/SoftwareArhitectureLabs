@@ -1,0 +1,11 @@
+C:\Users\supar\RichText\obj\Debug\RichText.csproj.AssemblyReference.cache
+C:\Users\supar\RichText\obj\Debug\RichText.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\RichText\obj\Debug\RichText.Form1.resources
+C:\Users\supar\RichText\obj\Debug\RichText.Properties.Resources.resources
+C:\Users\supar\RichText\obj\Debug\RichText.csproj.GenerateResource.cache
+C:\Users\supar\RichText\obj\Debug\RichText.csproj.CoreCompileInputs.cache
+C:\Users\supar\RichText\bin\Debug\RichText.exe.config
+C:\Users\supar\RichText\bin\Debug\RichText.exe
+C:\Users\supar\RichText\bin\Debug\RichText.pdb
+C:\Users\supar\RichText\obj\Debug\RichText.exe
+C:\Users\supar\RichText\obj\Debug\RichText.pdb
