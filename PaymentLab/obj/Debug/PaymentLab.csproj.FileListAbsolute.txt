@@ -1,0 +1,11 @@
+C:\Users\supar\PaymentLab\bin\Debug\PaymentLab.exe.config
+C:\Users\supar\PaymentLab\bin\Debug\PaymentLab.exe
+C:\Users\supar\PaymentLab\bin\Debug\PaymentLab.pdb
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.csproj.AssemblyReference.cache
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.Form1.resources
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.Properties.Resources.resources
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.csproj.GenerateResource.cache
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.csproj.CoreCompileInputs.cache
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.exe
+C:\Users\supar\PaymentLab\obj\Debug\PaymentLab.pdb
