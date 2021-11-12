@@ -1,8 +1,0 @@
-C:\Users\supar\LabWorkFour\obj\Debug\LabFourMenu.csproj.SuggestedBindingRedirects.cache
-C:\Users\supar\LabWorkFour\obj\Debug\LabFourMenu.Form1.resources
-C:\Users\supar\LabWorkFour\obj\Debug\Lab4.Properties.Resources.resources
-C:\Users\supar\LabWorkFour\obj\Debug\LabFourMenu.csproj.GenerateResource.cache
-C:\Users\supar\LabWorkFour\obj\Debug\LabFourMenu.csproj.CoreCompileInputs.cache
-C:\Users\supar\LabWorkFour\obj\Debug\Lab4.exe
-C:\Users\supar\LabWorkFour\obj\Debug\Lab4.pdb
-C:\Users\supar\LabWorkFour\obj\Debug\LabFourMenu.csproj.AssemblyReference.cache
